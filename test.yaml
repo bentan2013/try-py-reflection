@@ -1,0 +1,6 @@
+func:
+  class: AddOps
+  module_path: mylib.ops
+  kwargs:
+    left: 5
+    right: 7
